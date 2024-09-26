@@ -1,0 +1,10 @@
+{
+  "name": "belen",
+  "version": "1.0.0",
+  "description": "Reserved package",
+  "repository": "https://github.com/KevinFiorentino/belen",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Kev",
+  "license": "ISC"
+}
